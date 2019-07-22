@@ -20,4 +20,15 @@ On github.com, in USERNAME acct: "Create a new repository", name it, comment opt
 `.gitignore': sets which folders git should ignore
       The `create-react-app` created the .gitignore file.
 
+'git status' : show the status of the local repo
 
+'git checkout -B NAMEOFBRANCH
+
+then 'git branch`
+then `git checkout master`
+
+### pulling from git
+
+`git clone ...` : 
+
+make change, then: 'git pull origin master`
